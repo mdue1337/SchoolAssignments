@@ -23,7 +23,7 @@ namespace StringOpgave
 
             string substr2 = str.Substring(æ, 1);
 
-            Console.WriteLine($"{substr2}\n");
+            Console.WriteLine($"{æ}, '{substr2}', binære: 11100110, decimal: 230\n");
 
             // 3
             Console.WriteLine("- 3 -");
