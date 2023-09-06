@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingGiraf", "FindingGiraf\FindingGiraf.csproj", "{212F7886-B988-4460-B84D-8DB05D34DCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212F7886-B988-4460-B84D-8DB05D34DCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212F7886-B988-4460-B84D-8DB05D34DCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212F7886-B988-4460-B84D-8DB05D34DCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212F7886-B988-4460-B84D-8DB05D34DCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1758AD-1722-40B5-B81A-01E6D8FFB0A4}
+	EndGlobalSection
+EndGlobal

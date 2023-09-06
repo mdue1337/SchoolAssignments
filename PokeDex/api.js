@@ -47,7 +47,6 @@ function GenerateList(DataList) {
             li.innerHTML = DataList[i];
             ulList.appendChild(li);
             div.appendChild(ulList);
-            console.log(i);
         } else {
             if (ulList) {
                 ulList.firstChild.innerHTML = ulList.firstChild.innerHTML + ": <b>" + DataList[i] + "</b>   "
