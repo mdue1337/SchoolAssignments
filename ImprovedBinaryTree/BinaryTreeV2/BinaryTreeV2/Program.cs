@@ -22,17 +22,17 @@ namespace BinaryTreeV2
                 }
             }
 
-            int target = 28;
+            int target = int.Parse(Console.ReadLine());
 
             Node targetNode = PreOrderTraversel(Root, target);
 
             if(targetNode == null)
             {
-                Console.WriteLine("not found in tree");
+                Console.WriteLine($"{target} not found in tree");
             }
             else
             {
-                Console.WriteLine(targetNode);
+                Console.WriteLine(targetNode.value);
             }
 
             Console.ReadKey();
@@ -62,6 +62,10 @@ namespace BinaryTreeV2
             if (node.value == target)
             {
                 return node;
+            }
+            else
+            {
+                Console.WriteLine($"{node.value} is not {target}");
             }
 
             if(node.Left != null)
