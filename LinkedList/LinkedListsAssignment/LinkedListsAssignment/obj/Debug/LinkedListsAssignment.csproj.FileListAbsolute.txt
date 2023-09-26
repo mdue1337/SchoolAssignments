@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\bin\Debug\LinkedListsAssignment.exe.config
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\bin\Debug\LinkedListsAssignment.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\bin\Debug\LinkedListsAssignment.pdb
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\obj\Debug\LinkedListsAssignment.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\obj\Debug\LinkedListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\obj\Debug\LinkedListsAssignment.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\LinkedList\LinkedListsAssignment\LinkedListsAssignment\obj\Debug\LinkedListsAssignment.pdb
