@@ -44,7 +44,7 @@ namespace LinkedListsAssignment
 
             Console.WriteLine();
 
-            // Opgave 2
+            // Opgave 2, ElementAt(index) kunne også være brugt.
 
             Console.WriteLine("Opgave 2\n");
 
@@ -91,7 +91,7 @@ namespace LinkedListsAssignment
             int dividerNum = 0;
             index = 0;
 
-            int dividerIndex = ints.Count - 3;
+            int dividerIndex = ints.Count - 3; // går 2 tal bagud og minuser med en ekstra grundet vi skal have index-værdien
 
             foreach(int i in ints)
             {

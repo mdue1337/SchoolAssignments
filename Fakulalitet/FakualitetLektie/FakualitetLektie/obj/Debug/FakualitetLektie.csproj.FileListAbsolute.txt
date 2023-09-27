@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\bin\Debug\FakualitetLektie.exe.config
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\bin\Debug\FakualitetLektie.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\bin\Debug\FakualitetLektie.pdb
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\obj\Debug\FakualitetLektie.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\obj\Debug\FakualitetLektie.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\obj\Debug\FakualitetLektie.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\Fakulalitet\FakualitetLektie\FakualitetLektie\obj\Debug\FakualitetLektie.pdb
