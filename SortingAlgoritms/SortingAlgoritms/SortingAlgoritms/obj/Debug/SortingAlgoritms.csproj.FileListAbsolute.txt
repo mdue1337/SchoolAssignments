@@ -1,0 +1,7 @@
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\bin\Debug\SortingAlgoritms.exe.config
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\bin\Debug\SortingAlgoritms.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\bin\Debug\SortingAlgoritms.pdb
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\obj\Debug\SortingAlgoritms.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\obj\Debug\SortingAlgoritms.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\obj\Debug\SortingAlgoritms.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Lektier\SchoolAssignments\SortingAlgoritms\SortingAlgoritms\SortingAlgoritms\obj\Debug\SortingAlgoritms.pdb
