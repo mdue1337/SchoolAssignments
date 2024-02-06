@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1pEhSZjSoiau7uHl48bBEEPHvpS9NALXsFtZNJ6UHKf4KRBfHETQvpinEOWeZ/UlT41rp0ocD1el3Qt2PtjXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\OneDrive - TEC\\3. G\\Pro\\Lektier\\SchoolAssignments\\MVC\\MVCtest3d\\MVCtest3d\\MVCtest3d.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

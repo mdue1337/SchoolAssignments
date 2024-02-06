@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\bin\Debug\net6.0\TestCodeExample.exe
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\bin\Debug\net6.0\TestCodeExample.deps.json
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\bin\Debug\net6.0\TestCodeExample.runtimeconfig.json
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\bin\Debug\net6.0\TestCodeExample.dll
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\bin\Debug\net6.0\TestCodeExample.pdb
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.AssemblyInfo.cs
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.dll
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\refint\TestCodeExample.dll
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.pdb
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\TestCodeExample.genruntimeconfig.cache
+C:\Users\marti\OneDrive - TEC\3. G\Pro\Test af kode\TestCodeExample\TestCodeExample\obj\Debug\net6.0\ref\TestCodeExample.dll
